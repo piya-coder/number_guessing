@@ -1,0 +1,27 @@
+.error {
+    color: red;
+}
+
+.player2 {
+    display: none;
+}
+
+.player2btn {
+    display: none;
+}
+
+.chances {
+    display: none;
+}
+
+img {
+    display: none;
+}
+
+.player3 {
+    display: none;
+}
+
+.player3btn {
+    display: none;
+}
