@@ -28,7 +28,6 @@ player1btn.addEventListener("click", function() {
         } else {
 
             error.innerHTML = ""
-            player1.value = "";
             player.innerHTML = " Plyer - 2"
             player1.style.display = "none"
             player1btn.style.display = "none"
